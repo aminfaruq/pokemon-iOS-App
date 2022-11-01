@@ -1,6 +1,6 @@
 //
 //  TabBarController.swift
-//  Pokemon App
+//  PokemonApp
 //
 //  Created by Amin faruq on 02/11/22.
 //
@@ -8,7 +8,7 @@
 import UIKit
 
 class TabBarController: UITabBarController {
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -36,5 +36,4 @@ class TabBarController: UITabBarController {
         rootViewController.navigationItem.title = title
         return navController
     }
-    
 }

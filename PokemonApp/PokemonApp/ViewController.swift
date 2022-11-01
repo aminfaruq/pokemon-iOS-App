@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Pokemon App
+//  PokemonApp
 //
 //  Created by Amin faruq on 02/11/22.
 //
